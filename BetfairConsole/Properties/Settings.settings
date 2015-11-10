@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BetfairConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XApplication" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xwasGHe05JelSOFq</Value>
+    </Setting>
+    <Setting Name="Content" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">application/x-www-form-urlencoded</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">robblankson@gmail.com</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Royale01</Value>
+    </Setting>
+    <Setting Name="LoginParams" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">api/certlogin</Value>
+    </Setting>
+    <Setting Name="BetFairLoginUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://identitysso.betfair.com</Value>
+    </Setting>
+    <Setting Name="CertPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\Cert\client-2048.p12</Value>
+    </Setting>
+    <Setting Name="MarketCatalogueMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SportsAPING/v1.0/listMarketCatalogue</Value>
+    </Setting>
+    <Setting Name="JsonVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2.0</Value>
+    </Setting>
+    <Setting Name="RpcParam" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">exchange/betting/json-rpc/v1</Value>
+    </Setting>
+    <Setting Name="BetFairExchangeUri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.betfair.com</Value>
+    </Setting>
+    <Setting Name="MarketBookMethod" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SportsAPING/v1.0/listMarketBook</Value>
+    </Setting>
+    <Setting Name="PlaceOrderMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SportsAPING/v1.0/placeOrders</Value>
+    </Setting>
+    <Setting Name="XApplicationDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TRpyYtvA9x7CLnp2</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
